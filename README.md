@@ -47,11 +47,3 @@ The application is implemented in a single Python script (`temperature_converter
 
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, feel free to create an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any questions or feedback, please contact [Kish-b](kishoreb22e3026@gmail.com).
-
