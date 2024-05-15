@@ -53,5 +53,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please contact @Kish-b.
+For any questions or feedback, please contact [Kish-b](kishoreb22e3026@gmail.com).
 
